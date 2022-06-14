@@ -1,0 +1,6 @@
+﻿E:\软件安装\vs 2019 install\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project_5_23_three.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+  test_5_23_three.c
+D:\VS\Project_5_23_three\Project_5_23_three\test_5_23_three.c(23,8): warning C4013: “game”未定义；假设外部返回 int
+D:\VS\Project_5_23_three\Project_5_23_three\test_5_23_three.c(40,6): error C2371: “game”: 重定义；不同的基类型
+  正在生成代码...
