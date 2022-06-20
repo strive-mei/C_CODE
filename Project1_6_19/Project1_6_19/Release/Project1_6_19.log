@@ -1,0 +1,4 @@
+﻿  learning_6_19.c
+D:\VS\Project1_6_19\Project1_6_19\learning_6_19.c(33,8): warning C4013: “assert”未定义；假设外部返回 int
+learning_6_19.obj : error LNK2001: 无法解析的外部符号 _assert
+D:\VS\Project1_6_19\Release\Project1_6_19.exe : fatal error LNK1120: 1 个无法解析的外部命令
